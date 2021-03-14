@@ -1,0 +1,15 @@
+{
+    "id": "/GuidesSchema",
+    "type": "object",
+    "properties": {
+      "title": {"type": "string"},
+      "description": {"type": "string"},
+      "status": {
+        "type": "string",
+        "enum": ["active", "inactive","on-hold"]
+      },
+      "display": { "type": "boolean" }
+  
+    },
+    "required":["title","description","status","display"]
+  }

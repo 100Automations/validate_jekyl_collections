@@ -1,0 +1,199 @@
+{
+    "filename": "t2.md",
+    "attributes": {
+        "title": "Creating a Good Project Image",
+        "description": "tips and info if you want to make your own project image",
+        "status": null,
+        "display": true
+    },
+    "errors": [
+        {
+            "path": [
+                "status"
+            ],
+            "property": "instance.status",
+            "message": "is not of a type(s) string",
+            "schema": {
+                "type": "string",
+                "enum": [
+                    "active",
+                    "inactive",
+                    "on-hold"
+                ]
+            },
+            "instance": null,
+            "name": "type",
+            "argument": [
+                "string"
+            ],
+            "stack": "instance.status is not of a type(s) string"
+        },
+        {
+            "path": [
+                "status"
+            ],
+            "property": "instance.status",
+            "message": "is not one of enum values: active,inactive,on-hold",
+            "schema": {
+                "type": "string",
+                "enum": [
+                    "active",
+                    "inactive",
+                    "on-hold"
+                ]
+            },
+            "instance": null,
+            "name": "enum",
+            "argument": [
+                "active",
+                "inactive",
+                "on-hold"
+            ],
+            "stack": "instance.status is not one of enum values: active,inactive,on-hold"
+        }
+    ]
+}{
+    "filename": "t1.md",
+    "attributes": {
+        "title": "Supporting Your Automation with Community",
+        "description": "In order to save time and provide a consistent experience for creators and users we’ve created default health files for you to customize as appropriate to your project.",
+        "status": "active",
+        "display": true
+    },
+    "errors": []
+}{
+    "filename": "t3.md",
+    "attributes": {
+        "title": "Self-Evaluating a New Automation Idea",
+        "description": "Research and questions for helping you move forward with your automation",
+        "status": "Active",
+        "display": true
+    },
+    "errors": [
+        {
+            "path": [
+                "status"
+            ],
+            "property": "instance.status",
+            "message": "is not one of enum values: active,inactive,on-hold",
+            "schema": {
+                "type": "string",
+                "enum": [
+                    "active",
+                    "inactive",
+                    "on-hold"
+                ]
+            },
+            "instance": "Active",
+            "name": "enum",
+            "argument": [
+                "active",
+                "inactive",
+                "on-hold"
+            ],
+            "stack": "instance.status is not one of enum values: active,inactive,on-hold"
+        }
+    ]
+}{
+    "filename": "t9.md",
+    "attributes": {
+        "title": "Creating a Good Read.me for Your Automation",
+        "description": "a read.me file is usually the first place that developers will start.  It should be fairly comprehensive and should have links to the other health files.",
+        "status": "active",
+        "display": true
+    },
+    "errors": []
+}{
+    "filename": "t8.md",
+    "attributes": {
+        "title": "Preparing Your Automation for Publication",
+        "description": "Gather the items in this guide before submitting your automation for publication.",
+        "status": "active",
+        "display": true
+    },
+    "errors": []
+}{
+    "filename": "t5.md",
+    "attributes": {
+        "title": "Write your Open Source Automation Creator Bio",
+        "description": "People want to know the authors behind automations on our site. Writing a good bio is easy once you know what to cover.",
+        "status": "coming soon",
+        "display": true
+    },
+    "errors": [
+        {
+            "path": [
+                "status"
+            ],
+            "property": "instance.status",
+            "message": "is not one of enum values: active,inactive,on-hold",
+            "schema": {
+                "type": "string",
+                "enum": [
+                    "active",
+                    "inactive",
+                    "on-hold"
+                ]
+            },
+            "instance": "coming soon",
+            "name": "enum",
+            "argument": [
+                "active",
+                "inactive",
+                "on-hold"
+            ],
+            "stack": "instance.status is not one of enum values: active,inactive,on-hold"
+        }
+    ]
+}{
+    "filename": "t6.md",
+    "attributes": {
+        "title": "Writing an Article for Your Automation",
+        "description": "If you want to write an article about your automation, consider these tips.",
+        "status": "in progress",
+        "display": true
+    },
+    "errors": [
+        {
+            "path": [
+                "status"
+            ],
+            "property": "instance.status",
+            "message": "is not one of enum values: active,inactive,on-hold",
+            "schema": {
+                "type": "string",
+                "enum": [
+                    "active",
+                    "inactive",
+                    "on-hold"
+                ]
+            },
+            "instance": "in progress",
+            "name": "enum",
+            "argument": [
+                "active",
+                "inactive",
+                "on-hold"
+            ],
+            "stack": "instance.status is not one of enum values: active,inactive,on-hold"
+        }
+    ]
+}{
+    "filename": "t7.md",
+    "attributes": {
+        "title": "Write a Short Narrative Description about Your Automation",
+        "description": "A good narrative description will increase targeted traffic to your repository.  This guide helps you create one.",
+        "status": "active",
+        "display": true
+    },
+    "errors": []
+}{
+    "filename": "t4.md",
+    "attributes": {
+        "title": "How to suggest a guide for 100 Automations",
+        "description": "This guide will help you in the suggestion or creation of a guide for 100Automations",
+        "status": "active",
+        "display": true
+    },
+    "errors": []
+}

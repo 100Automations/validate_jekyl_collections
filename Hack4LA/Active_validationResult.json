@@ -1,0 +1,1629 @@
+{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "100-automations.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "311-data.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "ballot-nav.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        },
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "brigade-organizers-playbook.md",
+    "errors": [
+        {
+            "message": "requires property \"vertical\"",
+            "stack": "instance requires property \"vertical\""
+        }
+    ]
+}{
+    "filename": "civic-opportunity-project.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-index.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "civic-tech-structure.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "engage.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[0].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "food-oasis.md",
+    "errors": [
+        {
+            "message": "is not of a type(s) string",
+            "stack": "instance.leadership[4].role is not of a type(s) string"
+        }
+    ]
+}{
+    "filename": "open-community-survey.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        }
+    ]
+}{
+    "filename": "tdm-calculator.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "undebate.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "vrms.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "website.md",
+    "errors": [
+        {
+            "message": "requires property \"partner\"",
+            "stack": "instance requires property \"partner\""
+        }
+    ]
+}{
+    "filename": "writeforall.md",
+    "errors": [
+        {
+            "message": "requires property \"technologies\"",
+            "stack": "instance requires property \"technologies\""
+        },
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}{
+    "filename": "youthjusticenav.md",
+    "errors": [
+        {
+            "message": "requires property \"tools\"",
+            "stack": "instance requires property \"tools\""
+        }
+    ]
+}
