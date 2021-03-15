@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-node",
+            "name": "Run Current File",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Hack4LA\\validate.js",
+            "outputCapture": "std"
+
+
+        }
+    ]
+}
